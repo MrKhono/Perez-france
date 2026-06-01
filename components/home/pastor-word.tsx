@@ -13,7 +13,7 @@ export function PastorWord() {
             <div className="relative mx-auto max-w-sm">
               <div className="overflow-hidden rounded-2xl shadow-2xl ring-1 ring-white/10">
                 <Image
-                  src="/pastor-priscille.png"
+                  src="/img/elder.jpg"
                   alt="Ancienne Priscille Grâce, pasteure principale"
                   width={500}
                   height={620}
